@@ -125,7 +125,7 @@
     loader.className = 'mv-loader';
     loader.innerHTML = `
         <div class="mv-loader-hosted">Hosted On</div>
-        <a href="https://sites.google.com/" target="_blank" style="text-decoration:none;">
+        <a href="https://sites.google.com/view/meta-void/" target="_blank" style="text-decoration:none;">
             <div class="mv-loader-title">META VOID</div>
         </a>
         <div class="mv-bar-wrap">
